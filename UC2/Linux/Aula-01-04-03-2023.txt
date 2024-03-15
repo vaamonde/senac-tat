@@ -1,0 +1,31 @@
+Objetivo a aula de hoje: 04/03/2024
+
+Material das aulas: AGORA COMEÇA O CURSO DE INFORMÁTICA, ENTÃO BORA UTILIZAR O GITHUB. 
+
+Link: https://github.com/vaamonde
+Link: https://www.youtube.com/boraparapratica
+
+#01_ Conhecer o movimento Open Source
+Empacotamento:	.tgz	(exe ou msi)
+				.deb
+				.rpm
+				.dmg
+Distro: Debian --> Ubuntu --> Linux Mint --> VavaLinux
+
+#02_ Conhecer o que é Virtualização
+
+Link: https://pt.wikipedia.org/wiki/Virtualiza%C3%A7%C3%A3o
+
+Link: https://pt.wikipedia.org/wiki/VirtualBox
+
+#03_ Instalação e Configuração do Linux Mint
+
+Material: https://github.com/vaamonde/dell-linuxmint/blob/master/software/00-install-linuxmint-21.3-virtualbox-7.0.md
+
+Vídeo: https://www.youtube.com/watch?v=Si2sw9VblkI
+
+#04_ Tipos de Sistemas de Arquivos
+Windows:	NTFS	(FAT32)
+Linux..:	EXT4
+
+#05_ O QUE É APT-GET (APT): sources.list

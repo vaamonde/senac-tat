@@ -1,0 +1,86 @@
+Objetivo da aula de hoje: 15/03/2024
+
+Link: https://github.com/vaamonde
+Link: https://www.youtube.com/boraparapratica
+
+Material de apoio:
+https://guiafoca.org/guiaonline/inicianteintermediario/
+https://ss64.com/bash/
+
+#01_ Iniciar o Linux Mint 21.3 Virginia;
+#02_ Atualizar o Linux Mint 21.3;
+	#A_ Utilizar o MintUpdate
+	#B_ Utilizar o Bash/Shell (Ctrl + Alt + T)
+		sudo apt update
+		sudo apt upgrade
+		sudo apt full-upgrade
+		sudo apt dist-upgrade
+		sudo apt autoremove
+		sudo apt autoclean
+AGUARDAR OS PROCEDIMENTOS DA AULA DE HOJE.
+
+#03_ Conceitos Básicos de Editor de Texto VIM
+Material: https://github.com/vaamonde/dell-linuxmint/blob/master/software/24-vim.md
+Vídeo Aula: https://www.youtube.com/watch?v=KknZSuFsfmk
+Material de Apoio: https://aurelio.net/vim/
+Material do Vimbook: https://cassiobotaro.dev/vimbook/
+
+	vim tei.txt
+		INSERT
+	ESC SHIFT : w <Enter>
+	
+	SESC/BEN
+		artes.html
+			TEXTO!!!!
+		musica.md
+			TEXTO!!!!
+		natacao.sh
+			TEXTO!!!!
+		futebol.exe
+			TEXTO!!!!
+	SENAC/PEN
+		japa.bat
+			TEXTO!!!!
+		office.docx
+			TEXTO!!!!
+	SENAC/CAS
+		mba
+			TEXTO!!!!
+		pos
+			TEXTO!!!!
+		graducao
+			TEXTO!!!!
+
+
+
+
+
+
+
+DESAFIO FINAL DO VIM: Pesquiar sobre os comandos do Editor vim: split e vsplit, dividir a tela em 04 (quatro) e abrir o seguintes arquivos em cada tela com o comando: e (TAB) funciona.
+
+	#01_ arquivo: /etc/hosts
+	#02_ arquivo: /etc/services
+	#03_ arquivo: /etc/nsswitch.conf
+	#04_ arquivo: ~/.bashrc
+
+#04_ Conceitos Básicos de Editor de Texto VSCODE
+Material: https://github.com/vaamonde/dell-linuxmint/blob/master/software/10-vscode.md
+Vídeo aula: https://www.youtube.com/watch?v=faS3gZgKE-A
+
+
+#05_ Integração do VSCODE e GITHUB
+Material: https://github.com/vaamonde/dell-linuxmint/blob/master/software/10-vscode.md
+Vídeo aula: https://www.youtube.com/watch?v=faS3gZgKE-A
+
+	git pull
+	git status
+	git add .
+	git status
+	git commit -m "Atualização"
+	git push
+	
+#06_ Finalização Github
+
+	Respositório com o seu nome;
+	Pesquisar e estudar sobre .md Markdown

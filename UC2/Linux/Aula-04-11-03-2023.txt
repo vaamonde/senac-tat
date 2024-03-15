@@ -1,0 +1,116 @@
+Objetivo a aula de hoje: 08/03/2024
+
+Link: https://github.com/vaamonde
+Link: https://www.youtube.com/boraparapratica
+
+Material de apoio:
+https://guiafoca.org/guiaonline/inicianteintermediario/
+https://ss64.com/bash/
+
+#01_ Iniciar o Linux Mint 21.3 Virginia;
+#02_ Atualizar o Linux Mint 21.3;
+	#A_ Utilizar o MintUpdate
+	#B_ Utilizar o Bash/Shell (Ctrl + Alt + T)
+		sudo apt update
+		sudo apt upgrade
+		sudo apt full-upgrade
+		sudo apt dist-upgrade
+		sudo apt autoremove
+		sudo apt autoclean
+
+#03_ Conceitos Básicos de Bash/Shell (Arquivos e Diretórios)
+Guia foca: https://guiafoca.org/guiaonline/inicianteintermediario/
+SS64: https://ss64.com/bash/
+Vídeo antigo: https://www.youtube.com/watch?v=xs1zGEBf-wc
+Aurelio: https://aurelio.net/shell/canivete/
+
+pwd: https://ss64.com/bash/pwd.html
+ls: https://ss64.com/bash/ls.html
+	ls
+	ls -l
+	ls -lh
+	
+cd: https://ss64.com/bash/cd.html
+	cd
+	cd /
+	cd ~
+	cd -
+
+mkdir: https://ss64.com/bash/mkdir.html
+	mkdir
+	mkdir -v
+	mkdir -pv
+
+echo: https://ss64.com/bash/echo.html
+	Redirecionamento
+		> Redireciona a saída padrão (STDOUT)
+		>> Redireciona a saída padrão, anexando
+	
+	echo Robson Vaamonde
+	echo Robson Vaamonde > teste.txt
+	echo "Aprendendo Bash/Shell Linux" >> teste.txt
+	
+touch: https://ss64.com/bash/touch.html
+	touch teste02.txt
+	
+cat: https://ss64.com/bash/cat.html
+	cat /etc/services
+	cat -n /etc/services
+
+head: https://ss64.com/bash/head.html
+	head /etc/services
+	head -n5 /etc/services
+	head -n20 /etc/services
+	
+tail: https://ss64.com/bash/tail.html
+	tail /etc/services
+	tail -n5 /etc/services
+	tail -n20 /etc/services
+	
+less: https://ss64.com/bash/less.html
+	
+DESAFIO: LISTAR SOMENTE AS LINHAS DE: 100 ATÉ 200 DO ARQUIVO: /etc/services MOSTRANDO OS  NÚMEROS DE LINHA PARA EU SABER SE ESTÁ CERTO, JOGAR O RESULTADO NO COMANDO: less PARA FACILITAR A LEITURA. less, tail, head e cat.
+cat -n /etc/services | head -n200 | tail -n101 | less
+
+#04_ Conceitos Básicos de Editor de Texto VIM
+Material: https://github.com/vaamonde/dell-linuxmint/blob/master/software/24-vim.md
+Vídeo Aula: https://www.youtube.com/watch?v=KknZSuFsfmk
+Material de Apoio: https://aurelio.net/vim/
+Material do Vimbook: https://cassiobotaro.dev/vimbook/
+
+	Operadores Lógicos
+	&& 	E lógico (AND)
+	sudo apt update && sudo apt install git vim
+	https://aurelio.net/vim/vim-basico.txt
+	
+	INSERT
+	ESC SHIFT : <>
+		q
+		q!
+		w
+		wq
+		x (Nunca usar o X)
+	
+#05_ Conceitos Básicos de Editor de Texto VSCODE
+Material: https://github.com/vaamonde/dell-linuxmint/blob/master/software/10-vscode.md
+Vídeo aula: https://www.youtube.com/watch?v=faS3gZgKE-A
+
+	ShellCheck
+	Shell-Format
+	Bash Beautify
+	Bats
+	Code Spell Checker
+	Brazilian (Brazil)
+	Portugues (Brazil)
+	
+#06_ Integração do VSCODE e GITHUB
+Material: https://github.com/vaamonde/dell-linuxmint/blob/master/software/10-vscode.md
+Vídeo aula: https://www.youtube.com/watch?v=faS3gZgKE-A
+
+DESAFIOS:
+
+	tree SEUNOME
+	
+	history
+	
+	git config --list

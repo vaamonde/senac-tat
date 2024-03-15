@@ -1,0 +1,72 @@
+Objetivo a aula de hoje: 06/03/2024
+
+Link: https://github.com/vaamonde
+Link: https://www.youtube.com/boraparapratica
+
+#01_ Iniciar o Linux Mint 21.3 Virginia;
+	ok
+#02_ Conhecer mais sobre o MintUpdate;
+	ok
+#03_ Conhecer e Instalar um novo Kernel;
+	ok: O QUE É KERNEL LINUX?
+	Site: https://www.kernel.org/
+	Informações do Sistema
+		O QUE É GRUB LINUX?
+#04_ Conhecer e Utilizar o Bash Shell;
+		O QUE É BASH LINUX?
+		O QUE É SHELL LINUX?
+		O QUE É SHELL SCRIPT?
+		
+		CTRL + ALT + T  (Terminal BASH)
+		CTRL + ALT + F1 (tty + F1-F6 F7)
+		CTRL + L (clear)
+		CTRL + D (exit)
+
+Material de apoio:
+https://guiafoca.org/guiaonline/inicianteintermediario/
+
+https://ss64.com/bash/
+
+#Atualizar o Sistema via Linha de Comando:
+	O QUE É SUDO (LINUX)?
+	O QUE É ROOT (LINUX)?
+https://guiafoca.org/guiaonline/inicianteintermediario/ch20s02.html
+https://ss64.com/bash/apt.html
+	
+	#atualização
+	sudo apt update
+	sudo apt upgrade
+	sudo apt full-upgrade
+	sudo apt dist-upgrade
+	sudo apt autoremove
+	sudo apt autoclean
+	#CUIDADO: sudo apt clean
+	history
+	
+#05_ Instalação de Software e Desafios;
+Link: https://alternativeto.net/
+
+	Linux Mint		<--->	Ubuntu Desktop
+	Linux Mint 21.x	<--->	Ubuntu 22.04.x
+	Ubuntu Desktop	<--->	Debian 
+					.DEB (GDEB)
+	
+	#01_ Mozilla Firefox;
+	#02_ Google Chrome;
+	---------------------
+	CUIDADO: SNAP - FLATPACK FLAHUB - APPIMAGE:
+	#03_ Microsoft Edge
+	#04_ Opera Browser
+	#05_ Vivaldi Browser
+	#06_ Midori Browser (astian)
+	#07_ Falkon Browser (estudar - AGUARDAR)
+	#08_ Brave Browser (estudar - AGUARDAR)
+	#09_ Chromium (estudar - AGUARDAR)
+	#10_ Tor Browser (estudar - AGUARDAR)
+
+#06_ Conhecendo e Documentando no Github.
+
+Material de apoio: 
+https://github.com/vaamonde/dell-linuxmint/blob/master/software/23-git-github.md
+
+Vídeo: https://www.youtube.com/watch?v=JDCYyjbrJu0

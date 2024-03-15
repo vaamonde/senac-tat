@@ -1,0 +1,43 @@
+Objetivo a aula de hoje: 13/03/2024 CONTINUAÇÃO
+
+Link: https://github.com/vaamonde
+Link: https://www.youtube.com/boraparapratica
+
+Material de apoio:
+https://guiafoca.org/guiaonline/inicianteintermediario/
+https://ss64.com/bash/
+
+#01_ Iniciar o Linux Mint 21.3 Virginia;
+#02_ Atualizar o Linux Mint 21.3;
+	#A_ Utilizar o MintUpdate
+	#B_ Utilizar o Bash/Shell (Ctrl + Alt + T)
+		sudo apt update
+		sudo apt upgrade
+		sudo apt full-upgrade
+		sudo apt dist-upgrade
+		sudo apt autoremove
+		sudo apt autoclean
+AGUARDAR OS PROCEDIMENTOS DA AULA DE HOJE.
+
+#03_ Conceitos Básicos de Bash/Shell (Arquivos e Diretórios)
+Guia foca: https://guiafoca.org/guiaonline/inicianteintermediario/
+SS64: https://ss64.com/bash/
+Vídeo antigo: https://www.youtube.com/watch?v=xs1zGEBf-wc
+Aurelio: 14:33 13/03/2024
+
+
+#04_ Conceitos Básicos de Editor de Texto VIM
+Material: https://github.com/vaamonde/dell-linuxmint/blob/master/software/24-vim.md
+Vídeo Aula: https://www.youtube.com/watch?v=KknZSuFsfmk
+Material de Apoio: https://aurelio.net/vim/
+Material do Vimbook: https://cassiobotaro.dev/vimbook/
+
+
+#05_ Conceitos Básicos de Editor de Texto VSCODE
+Material: https://github.com/vaamonde/dell-linuxmint/blob/master/software/10-vscode.md
+Vídeo aula: https://www.youtube.com/watch?v=faS3gZgKE-A
+
+	
+#06_ Integração do VSCODE e GITHUB
+Material: https://github.com/vaamonde/dell-linuxmint/blob/master/software/10-vscode.md
+Vídeo aula: https://www.youtube.com/watch?v=faS3gZgKE-A

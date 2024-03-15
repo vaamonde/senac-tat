@@ -1,0 +1,67 @@
+Objetivo a aula de hoje: 08/03/2024
+
+Link: https://github.com/vaamonde
+Link: https://www.youtube.com/boraparapratica
+
+Material de apoio:
+https://guiafoca.org/guiaonline/inicianteintermediario/
+https://ss64.com/bash/
+
+#01_ Iniciar o Linux Mint 21.3 Virginia;
+#02_ Atualizar o Linux Mint 21.3;
+	#A_ Utilizar o MintUpdate
+	#B_ Utilizar o Bash/Shell (Ctrl + Alt + T)
+		sudo apt update
+		sudo apt upgrade
+		sudo apt full-upgrade
+		sudo apt dist-upgrade
+		sudo apt autoremove
+		sudo apt autoclean
+
+#03_ Conhecendo mais sobre Instalação de Softwares
+
+	Gerenciador de Aplicativo
+		Microsoft: Ttf-mscorefonts-intaller
+		p7zip-full
+		Cairo-Dock
+		
+	O QUE É: SYNAPTIC
+		libreoffice-base
+		libreoffice-calc
+		libreoffice-draw
+		libreoffice-impress
+		libreoffice-math
+		libreoffice-writer
+	
+	O QUE É: APT ou APT-GET
+		sudo apt update
+		sudo apt install git
+		sudo apt install vim python2 python3 htop nmap ipcalc
+		sudo apt install hollywood cmatrix
+	
+	O QUE É: APPIMAGE
+		kdenlive
+	
+	O QUE É: PPA
+		GNS3
+	
+	O QUE É: SNAP e FLATPACK FLATHUB
+		NÃO VOU USAR
+	
+#04_ Conhecendo e Instalando os Editores de Texto
+
+	sudo apt install vim notepad
+	
+	VSCode (Visual Studio Code) for Linux
+
+	Aurelio.net: https://aurelio.net/
+	https://aurelio.net/vim/
+	
+#05_ Personalização Básica do Linux Mint
+		OK
+
+#06_ DESAFIO-01: Instalar o Software
+			WPS Office for Linux
+			FreeOffice
+			OnlyOffice	--> Office365 AppImage
+	
