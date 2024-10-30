@@ -1,0 +1,252 @@
+    1  sudo
+    2  sudo -i
+    3  sudo apt update 
+    4  sudo apt upgrade 
+    5  sudo apt full-upgrade 
+    6  sudo apt dist-upgrade 
+    7  sudo apt autoremove 
+    8  sudo apt autoclean 
+    9  history 
+   10  sudo reboot
+   11  sudo apt update
+   12  sudo apt install git vim kolourpaint 
+   13  history 
+   14  sudo poweroff 
+   15  sudo apt update
+   16  sudo apt full-upgrade 
+   17  sudo apt dist-upgrade 
+   18  sudo apt autoremove 
+   19  sudo apt autoclean 
+   20  pwd
+   21  ls
+   22  ls -lh
+   23  ls -l
+   24  ls -lh
+   25  ls -lha
+   26  cd
+   27  cd /
+   28  ls
+   29  ls -lh
+   30  cd ~
+   31  pwd
+   32  cd -
+   33  ls -lh
+   34  mkdir
+   35  mkdir --help
+   36  man mkdir
+   37  pwd
+   38  mkdir SENAC
+   39  ls
+   40  mkdir senac
+   41  ls
+   42  cd SENAC/
+   43  pwd
+   44  cd /
+   45  cd /home/senac/SENAC/
+   46  cd /
+   47  cd ~/SENAC/
+   48  mkdir -v TAT PEN CAS
+   49  ls -lh
+   50  cd TAT/
+   51  pwd
+   52  mkdir -v TEI TST
+   53  ls
+   54  cd TEI/
+   55  cd ..
+   56  cd..
+   57  cd.
+   58  cd ..
+   59  cd ~/SENAC/TAT/TEI/
+   60  cd ../../PEN/
+   61  mkdir -v TEI TST
+   62  cd TEI/
+   63  ls -lh
+   64  ls -lha
+   65  echo
+   66  echo SENAC Tatuapé
+   67  echo "SENAC Tatuapé"
+   68  echo "SENAC Tatuapé Técnico em Informática"
+   69  echo "SENAC Tatuapé Técnico em Informática" > teste.txt
+   70  ls
+   71  ls -lh
+   72  echo "Robson Vaamonde" > teste01.txt
+   73  ls -lh
+   74  touch
+   75  echo > senac.txt
+   76  ls -lh
+   77  touch sesc.txt
+   78  ls -lh
+   79  touch sesc.txt
+   80  ls -lh
+   81  echo Tatuapé > senac.txt 
+   82  ls -lh
+   83  echo Penha > senac.txt 
+   84  ls -lh
+   85  pwd
+   86  git
+   87  sudo apt install git vim
+   88  git clone https://github.com/vaamonde/senac-tat
+   89  ls
+   90  cd senac-tat/
+   91  ls
+   92  git config --global user.name "Robson Vaamonde"
+   93  git config --global user.email robsonvaamonde@gmail.com
+   94  git config --list 
+   95  sudo init 0
+   96  history
+   97  sudo apt update
+   98  sudo apt upgrade 
+   99  sudo apt full-upgrade 
+  100  sudo apt dist-upgrade 
+  101  sudo apt autoremove 
+  102  sudo apt autoclean 
+  103  cd SENAC/
+  104  ls -lh
+  105  cd TAT/
+  106  ls
+  107  cd TEI/
+  108  ls -lh
+  109  touch senac.txt senai.txt sesc.txt
+  110  ls -lh
+  111  echo "Tatuapé" > senac.txt 
+  112  echo "Guarulhos" > senai.txt 
+  113  echo "Santana" > sesc.txt 
+  114  ls -lh
+  115  cat senai.txt 
+  116  cat -n senai.txt 
+  117  echo "Vila Maria" > senai.txt 
+  118  cat -n senai.txt 
+  119  echo "Itaquera" >> senai.txt 
+  120  cat -n senai.txt 
+  121  echo "Bras" >> senai.txt 
+  122  cat -n senai.txt 
+  123  tac senai.txt 
+  124  cat -n senai.txt 
+  125  cat -n senai.txt | tac
+  126  tail /etc/services 
+  127  head /etc/services 
+  128  cat /etc/services 
+  129  cat -n /etc/services 
+  130  tail -n3 /etc/services 
+  131  head -n3 /etc/services 
+  132  cat -n /etc/services | tail -n3
+  133  cat -n /etc/services | 
+  134  cat -n /etc/services | head -n200 | tail -n101 | less
+  135  cat -n /etc/services | head -n200 | tail -n101
+  136  cat -n /etc/services | head -n200 | tail -n101 | less
+  137  cat -n /etc/services | head -n200 | tail -n101 > vava.txt
+  138  ls -lh
+  139  ls
+  140  ls -lh
+  141  cp vava.txt ramos.txt
+  142  ls -lh
+  143  cp -v ramos.txt senai.txt 
+  144  ls -lh
+  145  ls -lh ../
+  146  ls -lh ../../
+  147  cp vava.txt ../../PEN/
+  148  ls -lh ../../PEN/
+  149  mkdir -v bkp
+  150  ls -lh
+  151  cp -v *.txt bkp/
+  152  ls -lh
+  153  mv -v vava.txt vaamonde.md
+  154  ls -lh
+  155  mv -v ramos.txt ../TST/leandro.md
+  156  ls -lh
+  157  rm -v sesc.txt 
+  158  cd ..
+  159  ls
+  160  rm -v TEI/
+  161  rm -Rfv TST/
+  162  ls
+  163  man ls
+  164  ifconfig 
+  165  ifconfig | less
+  166  ifconfig | tail
+  167  ping 8.8.8.8
+  168  ping 8.8.8.8 -t5
+  169  exit
+  170  ls
+  171  sudo dpkg -i code_1.94.2-1728494015_amd64.deb 
+  172  exit
+  173  sudo apt update
+  174  sudo apt upgrade 
+  175  history
+  176  ls
+  177  history > teste.txt
+  178  less teste.txt 
+  179  rm teste.txt 
+  180  ls
+  181  mkdir -Pv RobsonVaamonde/{SESC,SENAI}
+  182  mkdir -pv RobsonVaamonde/SESC
+  183  mkdir -pv RobsonVaamonde/SENAI
+  184  cd RobsonVaamonde/
+  185  ls
+  186  cd SESC
+  187  mkdir -v BEL SAN ITA
+  188  LS
+  189  ls
+  190  cd ..
+  191  cd SENAI/
+  192  ls
+  193  mkdir -v Tornearia Fresagem Soldagem
+  194  ls
+  195  mkdir BRA
+  196  mv -v Fresagem/ Soldagem/ Tornearia/ BRA/
+  197  ls
+  198  mkdir GUA TAT PJS
+  199  ls
+  200  mkdir -v GUA/Eletricista
+  201  mkdir -v TAT/Drywall
+  202  ls
+  203  mkdir -v PJS/Empilhadeira
+  204  ls
+  205  cd ..
+  206  ls
+  207  cd SESC/
+  208  ls
+  209  cd BEL/
+  210  vim danca.txt
+  211  ls
+  212  cd ..
+  213  ls
+  214  cd SAN/
+  215  vim natacao.md
+  216  cd ..
+  217  cd ITA/
+  218  vim capoeira.sh
+  219  ls
+  220  cd ..
+  221  ls
+  222  cd ..
+  223  ls
+  224  cd SENAI/
+  225  ls
+  226  cd BRA/Tornearia/
+  227  vim cal_nov_2024.txt
+  228  cd ..
+  229  vim Fresagem/cal_dez_2024.txt
+  230  vim Soldagem/cal_jan_2025.txt
+  231  cd ..
+  232  cd GUA/Eletricista/
+  233  vim cal_jan_2025.txt
+  234  ls
+  235  cd ..
+  236  ls
+  237  cd ..
+  238  cd TAT/Drywall/
+  239  vim cal_nov_2024.md
+  240  cd ..
+  241  cd PJS/Empilhadeira/
+  242  vim cal_jan_2025.sh
+  243  cd ..
+  244  sudo apt install tree
+  245  tree RobsonVaamonde/
+  246  man tree 
+  247  tree -h RobsonVaamonde/
+  248  ls
+  249  mv -v SENAC/ RobsonVaamonde/
+  250  tree -h RobsonVaamonde/
+  251  exit
+  252  history > comandos.txt
