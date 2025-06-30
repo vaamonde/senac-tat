@@ -1,0 +1,20 @@
+Objetivo da aula de hoje: 09/05/2025
+
+Pesquisa no Google: site vaamonde (Procedimentos em TI)
+#01_ Acessar o Site do Vaamonde (Google Site)
+https://sites.google.com/view/procedimentosemti
+	Cursos Técnico
+		Técnico em Informática
+
+#02_ Conteúdo das Aulas
+UC1 - Planejar e Executar a Montagem de Computadores
+	Eletricidade Básica
+
+#03_ 2ª Aula: Conhecendo a Primeira Lei de Ohm, Resistência Elétrica, Cálculos Elétricos de Tensão, Corrente, Resistência e Potência.
+
+Nessa segunda aula, vamos conhecer um pouco sobre Resistência Elétrica, conhecer a Primeira Lei de Ohm, executar os cálculos de Tensão, Corrente e Resistência, conhecer o Triangulo Mágico de Ohm para Resistência e Potência Aparente (Reativa e Ativa).
+
+PARA SEGUNDA FEIRA: Cadastro Github
+					SE POSSÍVEL: Cadastro no LinkedIn
+					
+USUÁRIO TEMP.: t-362403 - SENHA DO TEMP: rikIPSM8

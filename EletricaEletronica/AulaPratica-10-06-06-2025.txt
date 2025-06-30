@@ -1,0 +1,31 @@
+0 - Objetivo da aula de hoje: 06/06/2025 - B - FIM
+
+#01_ Pegar as Ferramentas das aula de hoje:
+	 01 (um)   Multímetro (Multiteste)
+	 01 (um)   Cabo de Força (Três Pinos PC)
+	 01 (uma)  Fonte de Alimentação
+	 01 (um)   Testador de Fonte
+	 01 (um)   Alicate de Corte ou Bico
+	 01 (uma)  Protoboard
+	 10 (dez)  Cabos de Rede para Jumper PSU e Protoboard
+	 03 (três) Coolers (FANS) de 12V Pequenas
+	 10 (dez)  Jumpers para os Coolers e Circuito
+	 03 (três) LED's para os Circuito
+	 03 (três) RESISTORES PARA 12V, 7V e 5V
+	 10 (dez)  Jumpers para os LED's e Circuito
+LIGAR TODO O CIRCUITO DA ÚLTIMA AULA
+
+#02_ Fazer os Testes Básicos de Tensão Alternada
+	 A) Calibrar o Multímetro em: 200V (AC - CA)
+	 B) Testar a Tomada Preta: Fase + Neutro | Neutro + Terra | Fase + 
+	    Terra e anotar os valores
+	 C) Testar com o Cabo na Tomada: Fase + Neutro | Neutro + Terra | 
+	    Fase + Terra e anotar os valores
+	 D) Calibrar o Multímetro em: 20V (DC - CC)
+	 E) Ligar o Testador na Fonte com os Chicotes: Placa Mãe e Processador
+	 F) Testar o Chicotes MOLEX (12V e 5V)
+
+#senac #senacsp #senactat #senactatuapé #senactatuape #jeitosenac #jeitosenacdeeducar #eletrica #elétrica #eletronica #eletrônica #eletroeletronica #circuitoeletrico
+
+Linkedin: @senac são paulo - @robson vaamonde
+Instagram. @senac.tatuape  - @procedimentoem

@@ -1,0 +1,22 @@
+0
+Objetivo da aula de hoje: 19/05/2025 - A
+
+OBSERVAÇÃO: NÃO LIGAR OS COMPUTADORES, NÃO VAMOS UTILIZAR NAS AULAS DE CABEAMENTO.
+
+#01_ Pegar as Ferramentas das aula de hoje:
+	 01 (um)   Multímetro (Multiteste)
+	 01 (um)   Cabo de Força (Três Pinos PC)
+	 03 (três) Pilhas 1,5V
+
+#02_ Fazer os Testes Básicos de Tensão Alternada
+	 Calibrar o Multímetro em: 200V (AC - CA)
+	 Testar a Tomada Preta: Fase + Neutro | Neutro + Terra | Fase + Terra e anotar os valores
+	 Testar com o Cabo na Tomada: Fase + Neutro | Neutro + Terra | Fase + Terra e anotar os valores
+	 Calibrar o Multímetro em: 20V (DC - CC)
+	 Testar a Pilha: Polo Positivo + Polo Negativo
+	 Testar a Pilha em Série: 02 (duas) ou 03 (três) Pilhas em Série
+
+#senac #senacsp #senactat #senactatuapé #senactatuape #jeitosenac #jeitosenacdeeducar #eletrica #elétrica #eletronica #eletrônica #eletroeletronica #circuitoeletrico
+
+Linkedin: @senac são paulo - @robson vaamonde
+Instagram. @senac.tatuape  - @procedimentoem

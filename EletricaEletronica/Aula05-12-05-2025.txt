@@ -1,0 +1,32 @@
+Objetivo da aula de hoje: 12/05/2025 (FINALIZAÇÃO AULAS TEÓRICAS)
+
+Pesquisa no Google: site vaamonde (Procedimentos em TI)
+#01_ Acessar o Site do Vaamonde (Google Site)
+https://sites.google.com/view/procedimentosemti
+	Cursos Técnico
+		Técnico em Informática
+
+#02_ Conteúdo das Aulas
+UC1 - Planejar e Executar a Montagem de Computadores Eletricidade Básica
+
+#03_ 3ª Aula: Conhecendo a Rede Elétrica, Básico da Corrente Contínua, Corrente Alternada, Frequência, Onda Senoidal, Tensão Nominal, Pico, Pico a Pico, Eficaz RMS, Média, Instantâneo e Frequência.
+
+Nessa terceira aula, vamos conhecer um pouco sobre Rede Elétrica, Básico de Corrente Contínua, Básico de Corrente Alternada, Frequência, Onda Senoidal, Tensão Nominal, Pico, Pico a Pico, Eficaz, Média RMS, Instantâneo e Frequência.
+
+PARA SEGUNDA FEIRA: Cadastro Github
+					SE POSSÍVEL: Cadastro no LinkedIn
+					
+USUÁRIO TEMP.: t-362403 - SENHA DO TEMP: rikIPSM8
+
+Pw	 = 60W
+Uv 	 = 127V
+Ia 	 = 0,47A
+Rohm = 270Ohm
+Uv   = 220V
+Ia   = 0,27A
+Rohm = 814Ohms
+----------------
+Pw 60 W
+0             60
+
+0 1 Binário
