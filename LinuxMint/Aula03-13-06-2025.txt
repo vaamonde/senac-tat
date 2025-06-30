@@ -1,0 +1,16 @@
+Objetivo da aula de hoje: 13/06/2025
+
+#01_ Material na Rede SENAC Tatuapé
+T:\Publica\!!!!!!!RobsonVaamonde\LinuxMint
+
+#01_ Utilização do Github:
+https://github.com/vaamonde
+
+#02_ Autenticação no Github é utilização Básica
+
+#03_ Copiar a ISO do Linux Mint da Rede:
+De: T:\Publica\!!!!!!!RobsonVaamonde\LinuxMint
+Para: D:\ISO
+
+#03_ Criação da Máquina Virtual e Instalação do Linux Mint 22.1 Xia x64 Bits
+https://github.com/vaamonde/dell-linuxmint/blob/master/software/00-install-linuxmint-22.1-virtualbox-7.1.md

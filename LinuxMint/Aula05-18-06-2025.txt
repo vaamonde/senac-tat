@@ -1,0 +1,57 @@
+Objetivo da aula de hoje: 18/06/2025
+
+OBSERVAÇÃO: INICIAR O LINUX MINT MAIS NÃO ATUALIZAR.
+
+#01_ Material na Rede SENAC Tatuapé
+T:\Publica\!!!!!!!RobsonVaamonde\LinuxMint
+
+#01_ Utilização do Github:
+https://github.com/vaamonde
+
+#02_ Conhecendo mais Sobre APT e APT-GET
+O que é e para que server apt (resumo)
+O que é e para que server sudo (resumo)
+O que é e para que server root (resumo)
+O que é Casesentive? SUDO sudo Sudo
+
+https://www.guiafoca.org/guiaonline/inicianteintermediario/
+
+https://ss64.com/bash/
+
+01) MintUpdate (GUI)
+02) Apt (Atualizar)
+
+sudo apt update
+sudo apt upgrade
+sudo apt full-upgrade
+sudo apt dist-upgrade
+sudo apt autoremove
+sudo apt autoclean
+sudo apt clean
+
+sudo apt update
+sudo apt install vim git python3 pip cloc
+
+#03_ Conhecendo mais sobre o Bash, Shell e TTY
+O que é e para que server o WSL (resumo)?
+O que é e para que server o Git Bash Windows (resumo)?
+
+Terminal: bash (atalho Ctrl + Alt + T)
+TTY.....: bash (atalho Ctrl + Alt + F1)
+Ambiente Gráfico: F7
+
+#04_ Começando com o Git e Github no Linux Mint
+
+Material de apoio: https://github.com/vaamonde/dell-linuxmint/blob/master/software/23-git-github.md
+
+BÁSICO do BÁSICO de Git e Github utilizando o Linux Mint 20.3 Una x64 
+https://www.youtube.com/watch?v=JDCYyjbrJu0
+
+GIT e GITHUB Básico com o Linux Mint 19.1 Tessa
+https://www.youtube.com/watch?v=hrmqRD2k5P0
+
+Configuração e Integração do Git e Github com o VSCode no GNU/Linux (Linux Mint 22) e Windows 10
+https://www.youtube.com/watch?v=VBxmsmPK60s
+
+Instalação das Extensões do Cisco no VSCode e Integração do Git e Github Infra de Redes Cisco 
+https://www.youtube.com/watch?v=f9ZqzzhSzcA

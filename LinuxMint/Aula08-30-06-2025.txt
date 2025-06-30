@@ -1,0 +1,13 @@
+Objetivo da aula de hoje: 30/06/2025 - Etapa-01: Install/Update
+
+#02_ Utilização do Repositório no Github:
+https://github.com/vaamonde/dell-linuxmint
+
+#03_ Enviando a documentação da Rede para o Github das aulas de Linux Mint
+T:\Publica\!!!!!!!RobsonVaamonde\LinuxMint
+T:\Publica\!!!!!!!RobsonVaamonde\EletricaEletronica
+
+#04_ Garfando/Bifurcação (Fork) o Repositório Dell-LinuxMint para o seu Perfil (Usuário)
+
+#05_ Instalando e Atualizando o Linux Mint no Notebook Itautec InfoWay
+https://github.com/vaamonde/dell-linuxmint/blob/master/07-Itautec-Infoway-N8645.md

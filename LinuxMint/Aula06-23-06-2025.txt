@@ -1,0 +1,19 @@
+Objetivo da aula de hoje: 23/06/2025
+
+OBSERVAÇÃO: INICIAR O LINUX MINT ATUALIZAR UTILIZANDO O MINTUPDATE OU COMANDO: APT.
+
+#01_ Material na Rede SENAC Tatuapé
+T:\Publica\!!!!!!!RobsonVaamonde\LinuxMint
+
+#02_ Utilização do Github:
+https://github.com/vaamonde
+
+#03_ Conhecendo mais Sobre Terminal e Comandos de Manipulação de Arquivos e Diretórios
+
+BASH SHELL Básico com o Linux Mint 19.1 Tessa
+https://www.youtube.com/watch?v=xs1zGEBf-wc
+
+#04_ Conhecendo mais sobre o Github
+
+BÁSICO do BÁSICO de Git e Github utilizando o Linux Mint 20.3 Una x64 
+https://www.youtube.com/watch?v=JDCYyjbrJu0

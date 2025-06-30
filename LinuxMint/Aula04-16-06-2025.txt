@@ -1,0 +1,57 @@
+Objetivo da aula de hoje: 16/06/2025
+
+#01_ Material na Rede SENAC Tatuapé
+T:\Publica\!!!!!!!RobsonVaamonde\LinuxMint
+
+#01_ Utilização do Github:
+https://github.com/vaamonde
+
+#02_ Conhecendo mais Sobre o MintUpdate
+Atualização do GNU/Linux Mint utilizando o MintUpdate após a Instalação - Aula-016
+https://www.youtube.com/watch?v=wdDiGYL6mDk
+
+A) MintUpdate --> apt (apt-get)
+B) Pacotes    --> Executável
+C) Drivers    --> Módulos
+
+#03_ Conhecendo o Kernel do Linux Mint
+COMO instalar o KERNEL versão 5.0.x no Linux Mint 19.2 Tina (ANTIGO MAIS AINDA ATUAL NA NOVA VERSÃO)
+https://www.youtube.com/watch?v=w8IWqqP-RqI
+
+Kernel: https://kernel.org/
+Install New Kernel: 6.11
+Guia Foca: https://www.guiafoca.org/guiaonline/inicianteintermediario/
+SS64: https://ss64.com/bash/
+
+#04_ Instalação Básica de Softwares no Linux Mint
+TODAS AS FORMAS de instalação de Software no Linux Mint - VÍDEO COMPLETO
+https://www.youtube.com/watch?v=j2-AEUpjpdA
+
+A) download google chrome
+.deb Pacote de instalação Debian/Ubuntu
+GEDBI - Instalador Gráfico
+O que é Dependências nos Pacotes .deb
+
+A) Mozilla Firefox - OK;
+B) Google Chrome - OK;
+C) Opera;
+D) Microsoft Edge Linux;
+E) Vivaldi;
+F) Brave (terminal);
+=================================================
+Editores de Texto (Prof)
+G) Microsoft Visual Studio Code VScode
+   EULA (Contrato) YES (Accept)
+   x64 ou amd64
+H) NotepadQQ for Linux
+Gerenciador de Aplicativos
+========================================
+Bash (Shell)
+Ctrl + Alt + T
+Ctrl + D (exit)
+TAB (Tabulador)
+Ctrl + L (clear)
+-----------------------
+apt ou apt-get 
+-----------------------
+sudo apt install vim python3

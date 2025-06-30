@@ -1,0 +1,62 @@
+Objetivo da aula de hoje: 27/06/2025 - CONTINUAÇÃO
+
+OBSERVAÇÃO: INICIAR O LINUX MINT ATUALIZAR UTILIZANDO O MINTUPDATE OU COMANDO: APT.
+
+#01_ Material na Rede SENAC Tatuapé
+T:\Publica\!!!!!!!RobsonVaamonde\LinuxMint
+
+#02_ Utilização do Github:
+https://github.com/vaamonde
+
+#03_ Conhecendo mais Sobre Terminal e Comandos de Manipulação de Arquivos e Diretórios
+BASH SHELL Básico com o Linux Mint 19.1 Tessa
+https://www.youtube.com/watch?v=xs1zGEBf-wc
+
+https://www.guiafoca.org/guiaonline/inicianteintermediario/ch08.html#comando-ls
+ls			listar arquivos e diretórios
+ls -lh	 	modo detalhado
+ls -lha		listar todos os arquivos
+
+https://www.guiafoca.org/guiaonline/inicianteintermediario/ch08s03.html
+pwd			diretório corrente
+
+https://www.guiafoca.org/guiaonline/inicianteintermediario/ch08s02.html
+cd 			mudar de diretório
+cd /		Root (Raiz /)
+cd -		voltar uma vez
+cd ~		diretório home usuário
+cd ~/Down	sub-diretório home usuário
+cd ..
+
+https://www.guiafoca.org/guiaonline/inicianteintermediario/ch08s04.html
+mkdir			criar diretório
+mkdir senac
+mkdir -v 		verboso
+mkdir -pv		criar diretório pai
+
+https://www.guiafoca.org/guiaonline/inicianteintermediario/ch10s16.html
+touch		criar arquivos
+
+https://www.guiafoca.org/guiaonline/inicianteintermediario/ch09s04.html
+cp			copiar
+cp -v 		origem destino
+
+https://www.guiafoca.org/guiaonline/inicianteintermediario/ch09s05.html
+mv			mover
+mv -v
+
+https://www.guiafoca.org/guiaonline/inicianteintermediario/ch09s03.html
+rm 			remover arquivos diretórios
+rm -v
+		sudo rm -Rv /*
+
+#04_ Conhecendo mais sobre o Github
+BÁSICO do BÁSICO de Git e Github utilizando o Linux Mint 20.3 Una x64 
+https://www.youtube.com/watch?v=JDCYyjbrJu0
+
+#05_ Estudo para a aula de Segunda-Feira (30/07) - Editor de Texto VIM
+BÁSICO do BÁSICO do Editor de Texto VIM utilizando o Linux Mint 20.3 Una x64
+https://www.youtube.com/watch?v=KknZSuFsfmk
+
+Pendriver >= 16GB (Linux Mint e Windows)
+Fone de Ouvido

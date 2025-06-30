@@ -1,0 +1,17 @@
+Objetivo da aula de hoje: 09/06/2025
+
+#01_ Material na Rede SENAC Tatuapé
+T:\Publica\!!!!!!!RobsonVaamonde\LinuxMint
+
+#01_ Utilização do Github:
+https://github.com/vaamonde
+
+#02_ Material das Aulas de Open Source
+https://github.com/vaamonde/dell-linuxmint
+
+#03_ Conhecendoo Open Source (TEORIA/NIVELAMENTO)
+https://github.com/vaamonde/dell-linuxmint/blob/master/pdf/Installfest-v2.pdf
+
+Filme Piratas da Informática: 
+
+Distrowatch: https://distrowatch.com/
